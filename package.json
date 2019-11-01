@@ -1,0 +1,19 @@
+{
+  "name": "netlify-dev-typeorm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "netlify": "netlify"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "netlify-cli": "^2.20.1"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13",
+    "sqlite3": "^4.1.0",
+    "typeorm": "^0.2.20"
+  }
+}
